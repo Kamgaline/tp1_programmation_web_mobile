@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "money-tracker-firebase",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
